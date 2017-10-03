@@ -1,0 +1,6 @@
+.idea/
+node_modules/
+test/fixtures/shots/
+coverage/
+examples/bundle.js
+examples/commonjs.bundle.js
